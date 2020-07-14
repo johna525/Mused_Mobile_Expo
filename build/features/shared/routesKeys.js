@@ -1,0 +1,13 @@
+export const COLLECTION = 'Collection';
+export const INSTAGRAM = 'Instagram';
+export const BROWSE = 'Browse';
+export const MYACCOUNT = 'MyAccount';
+export const COLLECTION_ZOOM = 'Collection Zoom';
+export const BROWSE_ONLY = 'Browse Only';
+export const NEWSFEED = 'Newsfeed';
+export const ZOOM = 'Zoom';
+export const FILTER = 'Filter';
+export const MENU_FILTER = 'Menu Filter';
+export const VIEW = 'VIEW';
+export const POSTITEM = 'PostItem';
+//# sourceMappingURL=routesKeys.js.map

@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Mused",
+    "description": "A very interesting project.",
+    "slug": "mused",
+    "privacy": "public",
+    "sdkVersion": "28.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "androidStatusBar": {
+      "backgroundColor": "#ffffff",
+      "barStyle": "dark-content"
+    },
+    "version": "1.0.9",    
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.cdempire.shopapp",
+      "versionCode": 9,
+      "permissions": [
+        "READ_SMS"
+      ]
+    },
+    "facebookScheme": "fb2127807207434704",
+    "facebookAppId": "2127807207434704",
+    "facebookDisplayName": "MusedApp",
+    "scheme": "musedapp"
+  }
+}

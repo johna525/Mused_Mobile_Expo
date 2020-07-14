@@ -1,0 +1,1 @@
+export { default as DragAndDrop } from './DragAndDropView/DragAndDropView.hoc';
